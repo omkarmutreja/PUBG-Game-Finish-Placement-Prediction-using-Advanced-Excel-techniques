@@ -7,7 +7,7 @@ The Game : Players are dropped into a wide, open area, and they must fight to su
 Game Channels : Smart Phone App & Computer
 Fun Facts : 5th  Best selling game of all time with over millions of active monthly users  
 
-## Excel Techniques:
+## Excel Techniques: Data Analysis Toolpak and Stats tool
 1) Descriptive statistics and plots - Mean, median, variance, skewness, bar plots, pie charts, histograms, boxplots
 2) Pivot tables and pivot charts
 3) Regression - Linear and Multiple Regression Techniques
