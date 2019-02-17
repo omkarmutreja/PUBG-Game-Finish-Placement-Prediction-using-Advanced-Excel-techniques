@@ -38,5 +38,9 @@ and Match type
 
 Players all over the world can study this model and focus on the important elements of the game to improve their chances of winning ( Important elements – Significant Predictors)
 
+## Youtube Video Link:
+https://www.youtube.com/watch?v=8CPKI7CAwRo&feature=em-share_video_user
+
+
 
 
