@@ -8,10 +8,10 @@ Game Channels : Smart Phone App & Computer
 Fun Facts : 5th  Best selling game of all time with over millions of active monthly users  
 
 ## Excel Techniques:
-1) Descriptive statistics and plots
+1) Descriptive statistics and plots - Mean, median, variance, skewness, bar plots, pie charts, histograms, boxplots
 2) Pivot tables and pivot charts
-3) Regression
-4) Forecasting
+3) Regression - Linear and Multiple Regression Techniques
+4) Forecasting 
 
 ## Objectives:
 1) To explain the dataset and sampling
